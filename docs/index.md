@@ -21,3 +21,5 @@ Tutorials are interactive web documents that instructors can use as in-class act
 5. [Lock](https://elizabethflynn.github.io/StatPrep/Lock.csv)
 
 6.  [Cereal](http://www.lock5stat.com/datasets/Cereal.csv)
+
+7.[caption](https://1.cdn.edl.io/QSFwkbBUeGbuHG5b26dizPmdbF27ZesW2eCzIDbPG6ih4n3H.jpg)
