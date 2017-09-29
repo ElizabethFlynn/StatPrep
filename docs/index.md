@@ -2,7 +2,7 @@
 
  Welcome.  This website will provide you with many valuable resources for learning and experiencing statistics.
 
-[caption](https://1.cdn.edl.io/QSFwkbBUeGbuHG5b26dizPmdbF27ZesW2eCzIDbPG6ih4n3H.jpg)
+![caption](https://1.cdn.edl.io/QSFwkbBUeGbuHG5b26dizPmdbF27ZesW2eCzIDbPG6ih4n3H.jpg)
 
 ## Welcome to StatPREP. 
 
